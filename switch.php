@@ -1,22 +1,22 @@
 <?php 
-    $hari = 1;
+    // $hari = 1;
 
-    switch ($hari) {
-        case 1:
-            echo 'minggu';
-            break;
-        case 2:
-            echo 'senin';
-            break;
-        case 3:
-            echo 'selasa';
-            break;
+    // switch ($hari) {
+    //     case 1:
+    //         echo 'minggu';
+    //         break;
+    //     case 2:
+    //         echo 'senin';
+    //         break;
+    //     case 3:
+    //         echo 'selasa';
+    //         break;
 
 
-        default:
-            echo 'hari belum dibuat';
-            break;
-    }
+    //     default:
+    //         echo 'hari belum dibuat';
+    //         break;
+    // }
 
 $pilihan = 'tambah';
 
@@ -34,7 +34,5 @@ switch ($pilihan){
         echo 'pilihan belum ada';
         break;
 }
-
-
 
 ?>
