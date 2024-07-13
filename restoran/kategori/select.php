@@ -1,5 +1,7 @@
 <div style="margin:auto; width:900px;">
 
+<h3><a href="https://localhost/php-video-phpuntuksiswasmk/restoran/kategori/insert.php">Tambah Data</a></h3>
+
 <?php 
     require_once ".../function.php";
 
