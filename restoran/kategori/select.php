@@ -61,7 +61,7 @@
         <th>Update</th>
     </tr>
     ';
-    $no = $mulai;
+    $no = $mulai+1;
     if ($jumlah > 0) {
         while ($row = mysqli_fetch_assoc($result)) {
             echo '<tr>';
